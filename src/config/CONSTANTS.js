@@ -1,0 +1,35 @@
+// any app specific constants that are not wanted to be kept in config can go here
+
+export const SYSTEM_ERROR_MESSAGE = 'Something went wrong. Please try again later.';
+export const CTA_YES = 'Yes';
+export const CTA_NO = 'No';
+export const CTA_OK = 'OK';
+export const CTA_CANCEL = 'Cancel';
+export const CTA_CLOSE = 'Close';
+export const CTA_SAVE = 'Save';
+export const CTA_SUBMIT = 'Submit';
+export const CTA_SEND = 'Send';
+export const CTA_RETRY = 'Retry';
+export const CTA_REFRESH = 'Refresh';
+export const CTA_RETRY_IN = 'Retry in';
+export const CTA_RETRY_IN_SECONDS = 'Retry in seconds';
+export const CTA_RETRY_IN_MINUTES = 'Retry in minutes';
+export const CTA_RETRY_IN_HOURS = 'Retry in hours';
+export const CTA_RETRY_IN_DAYS = 'Retry in days';
+export const CTA_RETRY_IN_WEEKS = 'Retry in weeks';
+export const CTA_RETRY_IN_MONTHS = 'Retry in months';
+export const CTA_RETRY_IN_YEARS = 'Retry in years';
+export const CTA_RETRY_IN_SECONDS_SHORT = 's';
+export const CTA_RETRY_IN_MINUTES_SHORT = 'm';
+export const CTA_RETRY_IN_HOURS_SHORT = 'h';
+export const CTA_RETRY_IN_DAYS_SHORT = 'd';
+export const CTA_RETRY_IN_WEEKS_SHORT = 'w';
+export const CTA_RETRY_IN_MONTHS_SHORT = 'mo';
+export const CTA_RETRY_IN_YEARS_SHORT = 'y';
+export const CTA_RETRY_IN_SECONDS_LONG = 'seconds';
+export const CTA_RETRY_IN_MINUTES_LONG = 'minutes';
+export const CTA_RETRY_IN_HOURS_LONG = 'hours';
+export const CTA_RETRY_IN_DAYS_LONG = 'days';
+export const CTA_RETRY_IN_WEEKS_LONG = 'weeks';
+export const CTA_RETRY_IN_MONTHS_LONG = 'months';
+export const CTA_RETRY_IN_YEARS_LONG = 'years';
